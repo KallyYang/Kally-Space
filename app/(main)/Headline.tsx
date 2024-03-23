@@ -80,7 +80,7 @@ export function Headline() {
         }}
       >
         <Balancer>
-          我是 Kally Yang，
+          我是 Kally Yang。
         </Balancer>
       </motion.p>
       <motion.div
