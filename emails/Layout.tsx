@@ -44,10 +44,10 @@ export default function Layout({
               />
               <Text className="text-center">
                 <Link
-                  href="https://cali.so"
+                  href="https://space.kallyyang.com"
                   className="text-zinc-700 underline"
                 >
-                  <strong>Cali Castle</strong>
+                  <strong>Kally Space</strong>
                 </Link>
                 <br />
                 开发者、设计师、细节控、创始人
@@ -68,14 +68,14 @@ export default function Layout({
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://cali.so/github"
+                  href="https://github.com/KallyYang"
                   className="text-xs text-zinc-600 underline"
                 >
                   GitHub
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://cali.so/bilibili"
+                  href="https://space.bilibili.com/3421823"
                   className="text-xs text-zinc-600 underline"
                 >
                   哔哩哔哩

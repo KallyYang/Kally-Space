@@ -14,7 +14,7 @@ import { seo } from '~/lib/seo'
 export const metadata: Metadata = {
   metadataBase: seo.url,
   title: {
-    template: '%s | Kally Yang',
+    template: '%s | Kally Space',
     default: seo.title,
   },
   description: seo.description,
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
   openGraph: {
     title: {
       default: seo.title,
-      template: '%s | Kally Yang',
+      template: '%s | Kally Space',
     },
     description: seo.description,
-    siteName: 'Kally Yang',
+    siteName: 'Kally Space',
     locale: 'zh_CN',
     type: 'website',
     url: 'https://space.kallyyang.com',

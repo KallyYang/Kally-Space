@@ -106,17 +106,17 @@ export function Headline() {
           platform="youtube"
         />*/}
         <SocialLink
-          href="https://cali.so/bilibili"
+          href="https://space.bilibili.com/3421823"
           aria-label="我的 Bilibili"
           platform="bilibili"
         />
         <SocialLink
-          href="https://cali.so/github"
+          href="https://github.com/KallyYang"
           aria-label="我的 GitHub"
           platform="github"
         />
         <SocialLink
-          href="https://cali.so/tg"
+          href="https://t.me/kallyyang"
           aria-label="我的 Telegram"
           platform="telegram"
         />
